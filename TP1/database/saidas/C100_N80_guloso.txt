@@ -1,0 +1,25 @@
+Capacidade da mochila: 100
+Itens inseridos:
+
+Item 2 de peso 11 e valor 78
+Item 3 de peso 1 e valor 72
+Item 12 de peso 3 e valor 28
+Item 13 de peso 2 e valor 35
+Item 18 de peso 2 e valor 30
+Item 27 de peso 11 e valor 77
+Item 29 de peso 11 e valor 77
+Item 31 de peso 5 e valor 32
+Item 49 de peso 13 e valor 90
+Item 58 de peso 5 e valor 9
+Item 59 de peso 5 e valor 88
+Item 61 de peso 4 e valor 73
+Item 67 de peso 10 e valor 60
+Item 73 de peso 9 e valor 69
+Item 76 de peso 6 e valor 62
+Item 80 de peso 2 e valor 87
+
+Peso total: 100
+Valor total: 967
+
+Tempo de execucao para o algoritmo guloso: 0.098 ms.
+

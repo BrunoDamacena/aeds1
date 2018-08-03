@@ -1,0 +1,11 @@
+Capacidade da mochila: 10
+Itens inseridos:
+
+Item 1 de peso 3 e valor 10
+Item 3 de peso 4 e valor 7
+Item 4 de peso 2 e valor 1
+
+Peso total: 9
+Valor total: 18
+
+Tempo de execucao para o algoritmo guloso: 0.016 ms.

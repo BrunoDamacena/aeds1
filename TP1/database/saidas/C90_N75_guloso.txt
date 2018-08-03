@@ -1,0 +1,30 @@
+Capacidade da mochila: 90
+Itens inseridos:
+
+Item 1 de peso 12 e valor 74
+Item 15 de peso 1 e valor 50
+Item 16 de peso 8 e valor 57
+Item 19 de peso 5 e valor 34
+Item 22 de peso 1 e valor 2
+Item 23 de peso 1 e valor 82
+Item 24 de peso 2 e valor 38
+Item 25 de peso 2 e valor 32
+Item 29 de peso 5 e valor 57
+Item 30 de peso 8 e valor 50
+Item 38 de peso 1 e valor 33
+Item 42 de peso 3 e valor 38
+Item 43 de peso 6 e valor 37
+Item 45 de peso 3 e valor 85
+Item 48 de peso 5 e valor 40
+Item 53 de peso 12 e valor 89
+Item 55 de peso 1 e valor 61
+Item 56 de peso 7 e valor 86
+Item 59 de peso 1 e valor 27
+Item 64 de peso 1 e valor 26
+Item 75 de peso 4 e valor 5
+
+Peso total: 89
+Valor total: 1003
+
+Tempo de execucao para o algoritmo guloso: 0.095 ms.
+

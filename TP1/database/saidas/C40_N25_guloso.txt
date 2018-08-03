@@ -1,0 +1,16 @@
+Capacidade da mochila: 40
+Itens inseridos:
+
+Item 4 de peso 2 e valor 13
+Item 7 de peso 9 e valor 45
+Item 12 de peso 5 e valor 48
+Item 14 de peso 7 e valor 33
+Item 15 de peso 1 e valor 38
+Item 16 de peso 5 e valor 44
+Item 19 de peso 6 e valor 48
+Item 21 de peso 3 e valor 42
+
+Peso total: 38
+Valor total: 311
+
+Tempo de execucao para o algoritmo guloso: 0.031 ms.

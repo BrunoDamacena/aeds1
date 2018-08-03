@@ -1,0 +1,68 @@
+Capacidade da mochila: 1500
+Itens inseridos:
+
+Item 15 de peso 18 e valor 44
+Item 17 de peso 1 e valor 26
+Item 35 de peso 46 e valor 104
+Item 45 de peso 21 e valor 126
+Item 53 de peso 17 e valor 97
+Item 68 de peso 43 e valor 87
+Item 69 de peso 38 e valor 85
+Item 86 de peso 56 e valor 107
+Item 88 de peso 32 e valor 68
+Item 94 de peso 40 e valor 134
+Item 110 de peso 20 e valor 120
+Item 123 de peso 20 e valor 82
+Item 156 de peso 33 e valor 103
+Item 161 de peso 9 e valor 72
+Item 162 de peso 12 e valor 82
+Item 169 de peso 35 e valor 80
+Item 182 de peso 10 e valor 146
+Item 185 de peso 14 e valor 83
+Item 208 de peso 17 e valor 85
+Item 228 de peso 35 e valor 107
+Item 231 de peso 6 e valor 124
+Item 301 de peso 11 e valor 60
+Item 318 de peso 11 e valor 104
+Item 319 de peso 38 e valor 98
+Item 337 de peso 13 e valor 121
+Item 351 de peso 20 e valor 144
+Item 389 de peso 12 e valor 123
+Item 391 de peso 57 e valor 138
+Item 426 de peso 7 e valor 141
+Item 447 de peso 56 e valor 111
+Item 453 de peso 23 e valor 72
+Item 471 de peso 29 e valor 62
+Item 497 de peso 38 e valor 144
+Item 499 de peso 66 e valor 146
+Item 502 de peso 29 e valor 147
+Item 517 de peso 38 e valor 134
+Item 528 de peso 16 e valor 84
+Item 552 de peso 15 e valor 120
+Item 575 de peso 3 e valor 33
+Item 647 de peso 40 e valor 97
+Item 679 de peso 23 e valor 129
+Item 686 de peso 61 e valor 122
+Item 722 de peso 35 e valor 72
+Item 750 de peso 7 e valor 70
+Item 760 de peso 5 e valor 104
+Item 765 de peso 39 e valor 116
+Item 775 de peso 14 e valor 54
+Item 777 de peso 7 e valor 21
+Item 783 de peso 8 e valor 45
+Item 832 de peso 32 e valor 122
+Item 848 de peso 56 e valor 145
+Item 856 de peso 32 e valor 126
+Item 887 de peso 14 e valor 87
+Item 924 de peso 11 e valor 55
+Item 929 de peso 9 e valor 81
+Item 955 de peso 10 e valor 138
+Item 960 de peso 28 e valor 71
+Item 969 de peso 43 e valor 117
+Item 972 de peso 17 e valor 133
+
+Peso total: 1496
+Valor total: 5849
+
+Tempo de execucao para o algoritmo guloso: 9.622 ms.
+

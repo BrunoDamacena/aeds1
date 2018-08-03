@@ -1,0 +1,35 @@
+Capacidade da mochila: 300
+Itens inseridos:
+
+Item 22 de peso 14 e valor 231
+Item 33 de peso 16 e valor 233
+Item 39 de peso 9 e valor 239
+Item 51 de peso 7 e valor 70
+Item 57 de peso 9 e valor 256
+Item 68 de peso 14 e valor 131
+Item 78 de peso 6 e valor 82
+Item 82 de peso 21 e valor 267
+Item 85 de peso 16 e valor 191
+Item 96 de peso 11 e valor 159
+Item 97 de peso 16 e valor 221
+Item 102 de peso 17 e valor 242
+Item 103 de peso 1 e valor 230
+Item 117 de peso 11 e valor 240
+Item 129 de peso 12 e valor 284
+Item 156 de peso 3 e valor 111
+Item 163 de peso 13 e valor 285
+Item 170 de peso 16 e valor 158
+Item 172 de peso 8 e valor 187
+Item 184 de peso 8 e valor 156
+Item 186 de peso 8 e valor 249
+Item 187 de peso 2 e valor 282
+Item 191 de peso 10 e valor 280
+Item 192 de peso 18 e valor 231
+Item 195 de peso 5 e valor 224
+Item 196 de peso 8 e valor 102
+Item 209 de peso 16 e valor 207
+
+Peso total: 295
+Valor total: 5548
+
+Tempo de execucao para o algoritmo guloso: 0.59 ms.

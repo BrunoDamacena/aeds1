@@ -1,0 +1,52 @@
+Capacidade da mochila: 750
+Itens inseridos:
+
+Item 17 de peso 36 e valor 79
+Item 21 de peso 3 e valor 58
+Item 64 de peso 49 e valor 91
+Item 77 de peso 10 e valor 100
+Item 95 de peso 6 e valor 85
+Item 99 de peso 20 e valor 47
+Item 119 de peso 14 e valor 38
+Item 130 de peso 21 e valor 30
+Item 134 de peso 16 e valor 34
+Item 138 de peso 19 e valor 28
+Item 154 de peso 5 e valor 51
+Item 156 de peso 4 e valor 32
+Item 168 de peso 26 e valor 64
+Item 180 de peso 56 e valor 100
+Item 210 de peso 11 e valor 46
+Item 212 de peso 15 e valor 53
+Item 213 de peso 6 e valor 91
+Item 215 de peso 11 e valor 91
+Item 227 de peso 2 e valor 69
+Item 240 de peso 8 e valor 95
+Item 247 de peso 32 e valor 56
+Item 249 de peso 17 e valor 31
+Item 250 de peso 8 e valor 46
+Item 255 de peso 31 e valor 79
+Item 271 de peso 5 e valor 43
+Item 272 de peso 15 e valor 47
+Item 284 de peso 6 e valor 22
+Item 292 de peso 32 e valor 81
+Item 322 de peso 18 e valor 30
+Item 325 de peso 15 e valor 40
+Item 332 de peso 13 e valor 33
+Item 361 de peso 10 e valor 61
+Item 363 de peso 34 e valor 78
+Item 373 de peso 21 e valor 73
+Item 374 de peso 2 e valor 94
+Item 380 de peso 31 e valor 75
+Item 405 de peso 6 e valor 88
+Item 418 de peso 3 e valor 87
+Item 420 de peso 5 e valor 84
+Item 421 de peso 40 e valor 64
+Item 431 de peso 3 e valor 30
+Item 451 de peso 15 e valor 43
+Item 466 de peso 4 e valor 59
+Item 500 de peso 36 e valor 62
+
+Peso total: 740
+Valor total: 2688
+
+Tempo de execucao para o algoritmo guloso: 2.473 ms.

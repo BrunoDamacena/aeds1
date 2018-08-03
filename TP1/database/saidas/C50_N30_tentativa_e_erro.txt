@@ -1,0 +1,20 @@
+Capacidade da mochila: 50
+Itens inseridos:
+
+Item 1 de peso 6 e valor 51
+Item 4 de peso 3 e valor 57
+Item 5 de peso 6 e valor 47
+Item 8 de peso 4 e valor 31
+Item 10 de peso 0 e valor 33
+Item 16 de peso 4 e valor 51
+Item 20 de peso 2 e valor 50
+Item 24 de peso 1 e valor 6
+Item 26 de peso 10 e valor 55
+Item 27 de peso 6 e valor 41
+Item 28 de peso 3 e valor 57
+Item 29 de peso 3 e valor 26
+
+Peso total: 48
+Valor total: 505
+
+Tempo de execucao para o algoritmo tentativa e erro: 577714 ms.

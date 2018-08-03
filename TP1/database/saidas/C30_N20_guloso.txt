@@ -1,0 +1,10 @@
+Capacidade da mochila: 25
+Itens inseridos:
+
+Item 3 de peso 1 e valor 25
+Item 8 de peso 8 e valor 15
+Item 9 de peso 3 e valor 24
+Item 12 de peso 8 e valor 25
+
+Peso total: 20
+Valor total: 89
